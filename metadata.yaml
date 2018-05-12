@@ -1,0 +1,35 @@
+_repo: Memoirs-of-the-Jacobites-of-1715-and-1745Volume-II._20947
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomson, A. T., Mrs.
+    aliases:
+    - Wharton, Grace
+    - Thomson, Katherine Byerley
+    - Thomson, M. A., Mrs.
+    birthdate: 1797
+    deathdate: 1862
+    gutenberg_agent_id: '9623'
+    url: http://www.gutenberg.org/2009/agents/9623
+description: ''
+gutenberg_issued: '2007-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20947'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jacobite Rebellion, 1715'
+- !lcsh 'Jacobite Rebellion, 1745-1746'
+- !lcc 'DA'
+- !lcsh 'Jacobites'
+tableOfContents: William Maxwell, earl of Nithisdale -- William Gordon, viscount Kenmure
+  -- William Murray, marquis of Tullibardine -- Sir John Maclean -- Rob Roy Macgregor
+  Campbell -- Simon Fraser, lord Lovat.
+title: Memoirs of the Jacobites of 1715 and 1745. Volume II.
+url: http://www.gutenberg.org/ebooks/20947
